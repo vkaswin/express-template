@@ -1,7 +1,7 @@
 {
-    "name": "mern-template",
+    "name": "express-template",
     "version": "1.0.0",
-    "description": "MERN Template",
+    "description": "Express Template",
     "main": "index.ts",
     "scripts": {
         "build": "tsc",
